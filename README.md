@@ -4,15 +4,21 @@ A api to select shooting schedule for Actor if he is earning equal amount from e
 
 Problem can be solved by using Activity Selection or by using greedy Approach
 
+------------------------------------
+
 ## Assumption
 + Shooting Start Date is always greater then by end date
 + no invalid entry allowed in post request
+
+------------------------------------
 
 ## Tech Stack and Tools used
 
 + Node JS
 + VS Code
 + Postman
+
+------------------------------------
 
 **Clone The Application**
 
@@ -111,10 +117,16 @@ with this data format
 
 ```
 
-**Screenshots**
 
-Request
+------------------------------------
+
+## Screenshots
+
+#### Request
+
 ![Request](https://user-images.githubusercontent.com/29687692/87390746-16ce3d00-c5c7-11ea-9695-4c0545607d41.png)
-Response
+
+#### Response
+
 ![Response](https://user-images.githubusercontent.com/29687692/87390698-ff8f4f80-c5c6-11ea-8819-0b01c82405d2.png)
 
